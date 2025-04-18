@@ -94,7 +94,7 @@ La aplicación utiliza datos geoespaciales de los puntos de abastecimiento, incl
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE.md](LICENSE) para más detalles.
 
 ## Contacto
 
