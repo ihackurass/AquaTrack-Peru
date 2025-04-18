@@ -48,7 +48,7 @@
 2. **Configurar la Base de Datos**
    - Abrir phpMyAdmin (http://localhost/phpmyadmin)
    - Crear una nueva base de datos llamada `aguabenditaupn`
-   - Importar el archivo SQL ubicado en la carpeta `database/aquatrack_schema.sql`
+   - Importar el archivo SQL ubicado en la carpeta `database/aguabenditaupn.sql`
 
 3. **Configurar la Aplicación**
    - Clonar o descargar este repositorio
